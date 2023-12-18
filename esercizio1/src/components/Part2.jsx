@@ -1,5 +1,5 @@
 import { Component } from "react";
-import img from "../assets/imgs/backEnd.png";
+import img from "../assets/imgs/tyler durden.jpg";
 import Button from "./Button";
 
 class Part2 extends Component {

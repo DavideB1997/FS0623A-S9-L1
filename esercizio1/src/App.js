@@ -9,11 +9,11 @@ function App() {
 			<header className='App-header'>
 				<Part1
 					label='Click Me!'
-					name='Front End!'
+					name='ehmmm'
 				/>
 				<Part2
 					label='Click Me!'
-					name='Back End!'
+					name='Tyler Durden'
 				/>
 			</header>
 		</div>

@@ -1,4 +1,4 @@
-import img from "../assets/imgs/Front.png";
+import img from "../assets/imgs/edward norton.png";
 import Button from "./Button";
 
 const Part1 = (props) => {
